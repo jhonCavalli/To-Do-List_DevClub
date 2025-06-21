@@ -17,7 +17,7 @@ h1 {
     text-align: center;
     color: black;
     margin-top: 20px;
-    box-shadow: rgba(211, 31, 31, 0.5);
-
-    
+    text-shadow: 2px 2px 4px rgba(177, 27, 27, 0.5); 
+    font-weight: bold;
 }
+
