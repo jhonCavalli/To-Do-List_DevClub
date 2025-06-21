@@ -76,3 +76,31 @@ span {
 }
 
 
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #646262;
+    font-size: 14px;
+    padding: 20px 10px;
+    text-shadow: 2px 2px 4px rgba(177, 27, 27, 0.5);
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.footer a {
+    color: #a7a3a3;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    
+}
+
+.footer a:hover {
+    color: #808080;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    font-size: 12px;
+    padding: 15px 5px;
+  }
+}
