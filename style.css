@@ -21,3 +21,24 @@ h1 {
     font-weight: bold;
 }
 
+input {
+    height: 40px;
+   border: 2px solid #C0C0C0;
+   background-color: #C0C0C0;
+   color: #808080;
+   outline: none;
+   border-radius: 5px;  
+}
+
+button {
+    border: none;]
+    height: 44px;
+    background-color: #C0C0C0;
+    color: #808080;
+    border-radius: 5px;
+    cursor: pointer;
+    
+
+
+}
+
