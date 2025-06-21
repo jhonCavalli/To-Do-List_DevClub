@@ -44,7 +44,7 @@ button {
     cursor: pointer;
     font-size: 16px;
     transition: 0.5s;
-    width: 90px;
+    width: 100px;
 }
 
 button:hover {
@@ -58,12 +58,21 @@ button:active {
 }
 
 li {
-    background-color:  ;
+    background-color:#C0C0C0  ;
     padding: 10px;
     margin: 10px auto;
     border-radius: 5px;
     list-style: none;
     color: #808080;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+spam {
+    cursor:pointer;
 }
 
 
